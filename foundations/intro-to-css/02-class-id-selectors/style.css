@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.oddN {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+
+#e2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.e3 {
+    font-size: 24px;
+}
+
+#e4 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
